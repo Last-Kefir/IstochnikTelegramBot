@@ -1,0 +1,7 @@
+host = ""
+user = ""
+password = ""
+db_name = ""
+token = ""
+url = ''
+log_file = "logs/debug.log"
